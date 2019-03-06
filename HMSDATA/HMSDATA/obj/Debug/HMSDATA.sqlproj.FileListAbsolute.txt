@@ -1,0 +1,9 @@
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\bin\Debug\HMSDATA.dacpac
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\bin\Debug\HMSDATA.dll
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\bin\Debug\HMSDATA.pdb
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\HMSDATA.dll
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\HMSDATA.pdb
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\Model.xml
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\refactor.xml
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\postdeploy.sql
+c:\users\user2\documents\visual studio 2015\Projects\HMSDATA\HMSDATA\obj\Debug\predeploy.sql
